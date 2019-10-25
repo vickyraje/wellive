@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.469e608c.chunk.css",
+    "main.js": "/static/js/main.f7e46849.chunk.js",
+    "main.js.map": "/static/js/main.f7e46849.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.30289e56.chunk.css": "/static/css/2.30289e56.chunk.css",
+    "static/js/2.5c16c07d.chunk.js": "/static/js/2.5c16c07d.chunk.js",
+    "static/js/2.5c16c07d.chunk.js.map": "/static/js/2.5c16c07d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a7a85ddfae425fa09f34879aa9d8cc1c.js": "/precache-manifest.a7a85ddfae425fa09f34879aa9d8cc1c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.30289e56.chunk.css.map": "/static/css/2.30289e56.chunk.css.map",
+    "static/css/main.469e608c.chunk.css.map": "/static/css/main.469e608c.chunk.css.map",
+    "static/media/ads-banner1.jpg": "/static/media/ads-banner1.fca4fba8.jpg",
+    "static/media/ads-banner2.jpg": "/static/media/ads-banner2.80c1087d.jpg",
+    "static/media/free-ads.png": "/static/media/free-ads.a7ee4008.png",
+    "static/media/login-img.png": "/static/media/login-img.da65d0eb.png",
+    "static/media/logo.png": "/static/media/logo.327d7fff.png",
+    "static/media/logo2.png": "/static/media/logo2.81846d66.png",
+    "static/media/paid.png": "/static/media/paid.9d8e8431.png",
+    "static/media/scroll-btn.png": "/static/media/scroll-btn.f8ed9ad4.png",
+    "static/media/welpedia-trusted.png": "/static/media/welpedia-trusted.d22b3130.png",
+    "static/media/welpedia-verified.png": "/static/media/welpedia-verified.99eb18f6.png"
+  }
+}
